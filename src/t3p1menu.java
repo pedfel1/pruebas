@@ -17,7 +17,8 @@ public class t3p1menu {
 		int i;
 		
 		
-		
+		System.out.println("-------MENU DE OPCIONES--------");
+
 		System.out.println("1. Elimina espacios en blanco.");
 		System.out.println("2. Invierte cadena.");
 		System.out.println("3. Concatena dos cadenas");
